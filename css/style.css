@@ -64,14 +64,14 @@ input {
     padding: 0%;
     }
     .title{
-        font-size: 40px;
+        font-size: 36px;
         /* margin-top: 34px; */
     }
     .col div{
-         width: 78px; 
+         width: 120px; 
     } 
     input {
-        width: 83%;
+        width: 90%;
         height: 62px;
     }
     .top{

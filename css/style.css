@@ -60,38 +60,47 @@ input {
 
 @media screen and (max-width: 768px) {
     body {
-    margin: 0%;
-    padding: 0%;
+        margin: 0%;
+        padding: 0%;
     }
-    .title{
-        font-size: 36px;
+
+    .title {
+        font-size: 34px;
         /* margin-top: 34px; */
     }
-    .col div{
-         width: 120px; 
-    } 
+
+    .col div {
+        width: 120px;
+    }
+
     input {
         width: 90%;
         height: 62px;
     }
-    .top{
+
+    .top {
         margin-top: 22%;
     }
-   
-    .col{
+
+    .col {
         width: 100%;
     }
-    span{
+
+    span {
         color: rgb(228, 12, 142);
     }
-    input#color{
+
+    input#color {
         background-color: rgb(159, 79, 79);
     }
-    input#color-1{
+
+    input#color-1 {
         background-color: rgb(26, 26, 105)
     }
-    #span{
+
+    #span {
         background-color: hotpink;
     }
-  };
+}
 
+;
